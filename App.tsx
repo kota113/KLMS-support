@@ -51,7 +51,6 @@ const Screen = () => {
     );
 };
 
-// export default Screen;
 
 // noinspection JSUnusedGlobalSymbols
 export default () => (
